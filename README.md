@@ -1,0 +1,2 @@
+# czatgpt
+my first repository
